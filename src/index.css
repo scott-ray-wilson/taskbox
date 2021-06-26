@@ -919,7 +919,7 @@ a:focus {
 .loading-item {
   height: 3rem;
   width: 100%;
-  background: white;
+  background: red;
   display: flex;
   align-items: center;
   line-height: 1rem;
